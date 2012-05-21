@@ -1,0 +1,10 @@
+This project is a web application for 'Token-based authentication for Web Applications'.
+
+It is coded for Tomcat 7.
+
+If you want to build this project, you should also download the library, available at https://github.com/sunnibo/tba-lib.
+
+The client for Android smartphones is available at https://github.com/sunnibo/tba-android-client.
+The library (mentioned above) is also necessary for building the Android client.
+
+This file was modified by IntelliJ IDEA 11.1.2 for binding GitHub repository

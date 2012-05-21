@@ -1,0 +1,58 @@
+h1.title {
+    text-align: center;
+    font-family: 'Tangerine', sans-serif;
+    font-size: 72px;
+    color: black;
+}
+
+.good {
+    color: green;
+}
+
+.info {
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.button {
+    text-align: center;
+    font-family: 'Salsa', sans-serif;
+    font-size: 24px;
+}
+
+form, button {
+    text-align: center;
+    font-family: 'Contrail One', sans-serif;
+    font-size: 16px;
+}
+
+form {
+    min-width: 400px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nobullet {
+    list-style: none;
+}
+
+a.nostyle, a:link.nostyle, a:visited.nostyle {
+    text-decoration: none;
+    color: black;
+}
+
+a.menustyle, a:link.menustyle, a:visited.menustyle {
+    text-decoration: none;
+    color: #708090;
+}
+
+a:hover.menustyle {
+    text-decoration: underline;
+    color: blue;
+}
